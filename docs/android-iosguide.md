@@ -1310,3 +1310,4 @@
 * [ZETSU](https://apps.apple.com/app/id1510161371) - Manga Reader / [Discord](https://discord.com/invite/NzJtsSf7t3)
 * [Hanami](https://github.com/oolxg/Hanami) - Manga Reader
 * [Libby](https://apps.apple.com/app/id1076402606) - Digital Library Books / Extend time via Offline or Airplane mode
+* [Beta Profile](https://betaprofile.net/) - Beta Profiles for iPhone
